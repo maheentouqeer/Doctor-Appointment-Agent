@@ -1,0 +1,15 @@
+streamlit 
+crewai 
+langchain 
+langchain-community 
+langchain-huggingface
+transformers 
+torch 
+accelerate 
+pandas 
+requests
+beautifulsoup4 
+sentence-transformers 
+faiss-cpu 
+plotly 
+reportlab
